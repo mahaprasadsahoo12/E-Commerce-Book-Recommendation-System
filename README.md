@@ -112,13 +112,13 @@ Features:
 
 ## 🔗 GitHub Repository
 
-🔗 [https://github.com/yourusername/book-recommendation-system](https://github.com/yourusername/book-recommendation-system)
+🔗 (https://github.com/yourusername/book-recommendation-system)
 
 ---
 
 ## 🙌 Author
 
 **Your Name**  
-B.Tech Graduate | Python & ML Enthusiast  
-Email: yourname@example.com  
-LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+MCA | Python & ML Enthusiast  
+Email: mahaprasadsahoo11@gmail.com  
+LinkedIn: www.linkedin.com/in/mahaprasad-sahoo-48b82720a/
