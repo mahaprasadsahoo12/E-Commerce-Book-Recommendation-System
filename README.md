@@ -1,4 +1,4 @@
-
+<img width="1258" height="70" alt="image" src="https://github.com/user-attachments/assets/fba9dcd2-5e52-4578-ac62-1aa6a0373ca1" />
 # 📚 E-Commerce Book Recommendation System
 
 This project is a personalized book recommendation system designed for e-commerce platforms. It uses collaborative filtering techniques to suggest books to users based on their past interactions and preferences.
@@ -84,12 +84,6 @@ Features:
 
 ---
 
-## 📷 Sample Output
-
-> (Add screenshots here of your Streamlit UI showing the input and recommended books)
-
----
-
 ## 🔮 Future Enhancements
 
 - Integrate content-based filtering using NLP
@@ -112,7 +106,8 @@ Features:
 
 ## 🔗 GitHub Repository
 
-🔗 (https://github.com/yourusername/book-recommendation-system)
+🔗 https://github.com/mahaprasadsahoo12/E-Commerce-Book-Recommendation-System
+
 
 ---
 
